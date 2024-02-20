@@ -1,0 +1,70 @@
+body{
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    border: 2px solid black;
+    font:italic bold .8em/1.2 Areal, sans-serif;
+
+
+}
+main{
+    height: 70vh;
+}
+.structural{
+    padding: 10px;
+    margin: 10px;
+}
+figcaption{
+   background-color: hsla(0, 100%, 50%, 0.9);
+    font-weight: 100;
+    font-size: medium;
+    padding: 5px;
+   
+}
+h1{
+    font-size: large;
+    color: rgb(253, 0, 0);
+}
+h2{
+    font-size: medium;
+    color: chocolate;
+}
+img{
+    border : 2px solid rgb(58, 16, 16);
+    width : 90%;
+    height: 80%; 
+}
+#leftimg{
+
+    float: left;
+}
+#rightimg{
+    
+    float: right;
+   
+}
+figure{
+    background-color: hsla(194, 100%, 50%, 0.9);
+    width: 45%;
+    margin: auto;
+    padding: 10px;
+    height: 60%;
+}
+section{
+  clear: both;
+  padding: 10px;
+}
+a{
+    color: rgb(0, 183, 255);
+    text-decoration: none;
+
+}
+a:hover{
+    color: rgb(0, 0, 0);
+}
+header,footer{
+background-color: rgb(255, 145, 0);
+text-align: center;
+}
+
+
